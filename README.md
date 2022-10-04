@@ -1,2 +1,12 @@
-# EAS-Fog_Functions_2020
-Functions written to perform data analytics on a Regional Climate Model experimental simulation
+# Python functions for studying coastal fog in a Regional Climate Model (RCM) simulation
+
+These functions were written to assist in performing data-analytics and the development of the RCM expieremental framework. 
+
+
+
+
+
+
+
+
+
